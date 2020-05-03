@@ -12,4 +12,11 @@ Creating a new branch is quick & simple.  Creating a new branch is quick & simpl
 
 Creating a new b
 Creating a new branch is quick & simple.
+
 修改分支bug
+=======
+让我们能复制一个特定的提交到当前分支
+让我们能复制一个特定的提交到当前分支
+让我们能复制一个特定的提交到当前分支
+让我们能复制一个特定的提交到当前分支
+
